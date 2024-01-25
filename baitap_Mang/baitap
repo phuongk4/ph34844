@@ -1,0 +1,97 @@
+Bài 1:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra giá trị cả tất cả các phần tử có trong mảng
+
+Bài 2:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tổng các phần tử có trong mảng
+
+Bài 3:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tất cả những phần tử có giá trị là số chẵn
+
+Bài 4:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tất cả những phần tử có giá trị là số lẻ
+
+Bài 5:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tất cả những phần tử có giá trị là số chia hết cho 3 và 5
+
+Bài 6:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tổng các phần tử có trong mảng
+
+
+
+Bài 7:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tổng các phần tử có trong mảng
+
+Bài 8:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra tích các phần tử có trong mảng
+
+Bài 9:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra trung bình cộng các phần tử có trong mảng
+
+Bài 10:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra phần tử có giá trị lớn nhất trong mảng
+
+Bài 11:
+Khai báo 1 mảng có 10 phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+In ra phần tử có giá trị nhỏ nhất trong mảng
+
+Bài 12
+// tạo 1 mảng liên hợp danh sách giảng viên  gồm 5 gv  thông tin sau:
+// magv,tengv,namsinh,luong
+//hiển thị danh sách các giảng viên ra table (Cột năm sinh hiển thị tuổi )
+// bôi màu những giảng viên có lương từ 1000 -> 2000
+
+
+
+
+Bài nâng cao
+Bài 12:
+Khai báo 1 mảng có N phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+Sắp xếp mảng theo tự giảm dần
+
+Bài 13:
+Khai báo 1 mảng có N phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+Sắp xếp mảng theo tự tăng dần
+
+Bài 14:
+Khai báo 1 mảng có N phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+Nhập vào phần tử cần tìm và in ra vị trí của phần tử đó
+
+Bài 15:
+Khai báo 1 mảng có N phần từ
+Nhập dự liệu từ bàn phím cho các phần tử có trong mảng
+Nhập vào phần tự cần tìm và xóa phần tử đó khỏi mảng
+
+
+
+
+
+
+
+
+
+
+
